@@ -2,6 +2,9 @@
 
 * **Opeyemi Adegboye** [Opeyemi's github](https://github.com/yemiSage)
 * **Tunde Fadipe** [Tunde's github](www.github.com/TunedayCodes)
+* **Olasunkanmi Abdulmujeeb** [iabdulmj's github](www.github.com/iabdulmj)
+* **Ologunye Enoch** [Enntech's github](www.github.com/Enntech)
+* **Kosoekezie** [justkoso](www.github.com/justkoso)
 
 # To Contribute on This Project 🤔
 1. Fork the Repository.
