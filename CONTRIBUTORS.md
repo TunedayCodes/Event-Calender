@@ -5,6 +5,7 @@
 * **Olasunkanmi Abdulmujeeb** [iabdulmj's github](www.github.com/iabdulmj)
 * **Ologunye Enoch** [Enntech's github](www.github.com/Enntech)
 * **Kosoekezie** [justkoso](www.github.com/justkoso)
+* **farida amanosi** [ojiahfarida](www.github.com/ojiahfarida)
 
 # To Contribute on This Project 🤔
 1. Fork the Repository.
